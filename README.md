@@ -1,2 +1,2 @@
 # availability-table-JK-s25
-availability table
+availability table assignment
